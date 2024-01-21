@@ -1,6 +1,5 @@
 # Hi there 👋, my name is Topu 
 ####  I am currently studying in the CSE department .
-![ I am currently studying in the CSE department .](https://www.linkedin.com/in/topu-bhuyan-5a03a5252/)
 
 
 - 🌱 I’m currently learning ASP.NET 
