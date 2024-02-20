@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Topu Bhuyan</h1>
 <h3 align="center">A passionate CS Student, Problem solver...</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xvy45" alt="xvy45" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xvy45&label=Profile%20views&color=0e75b6&style=flat" alt="xvy45" /> </p>
 
 <p align="left"> <a href="https://twitter.com/topubhuyan" target="blank"><img src="https://img.shields.io/twitter/follow/topubhuyan?logo=twitter&style=for-the-badge" alt="topubhuyan" /></a> </p>
 
