@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.net core, C#, C++**
 
-- 📫 How to reach me **topum800@gmal.com**
+- 📫 How to reach me **https://discord.com/channels/1143586352898789456/1143586353771200664**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
