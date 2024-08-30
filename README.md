@@ -22,15 +22,15 @@
 
 <div align="start">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,npm," /><br/>
-    <img src="https://skillicons.dev/icons?i=VisualStudio, VisualStudioCode,selenium,opencv,c++,c,cs,cpp,dotnet"/><br/>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet" /><br/>
     <img src="https://skillicons.dev/icons?i=wasm,rocket,actix,raspberrypi,sqlite,postgres,redis,mysql,notion" /><br/>
-    <img src="https://skillicons.dev/icons?i=obsidian,linux,kali,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=obsidian,linux,kali,ubuntu,git,github" />
 </p>
 
 ----
 
 # ⚙️ GitHub Analytics
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xvy45&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xvy45&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xvy45&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xvy45&theme=default)
@@ -42,7 +42,7 @@ You can contact me on
 - [email](mailto://tofayelahamdtofo@gmail.com)
 - discord: @topubhuyan
 
-# 😻 Here are some cats :3
+# 😻 Here are some cats
 
 <div>
     <img alt="cat" src="https://cdn3.emoji.gg/emojis/7601-pixel-toro-spin.gif" width="30" height="30"/>
