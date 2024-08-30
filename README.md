@@ -1,7 +1,8 @@
 
 # Hey there! I'm Topu <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-$ git clone --recursive git@github.com:pattu777/Lucy.git
+ [![xvy45](/xvy45.gif)](https://i.giphy.com/media/v1.Y2lkPT/giphy.gif)
+
 
 
 <p style="color: #bd93f9;">
