@@ -1,6 +1,8 @@
 
-# Hey there! I'm Topu
-<img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there! I'm Topu <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+$ git clone --recursive git@github.com:pattu777/Lucy.git
+
 
 <p style="color: #bd93f9;">
     I am a 'Topu Bhuyan'<br>
