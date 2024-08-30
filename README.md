@@ -23,7 +23,7 @@
 # 💡 My skills:
 
 <div align="start">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" /><br/>
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet" /><br/>
     <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,nodejs,npm,notion" /><br/>
     <img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,git,github,githubactions,powershell" /><br/>
