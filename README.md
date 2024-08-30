@@ -1,6 +1,6 @@
 
 # Hey there! I'm Topu <img alt="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoOWhoNjN4endicjg1MG5zZXFpaGJvMTQ0NzNxMXVxNGpqb3ZwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/KpJ47gKe6b7v7xQyWj/giphy.gif" width="25px">
-[![lucy](/lucy.gif)](https://ddjerqq.github.io)
+
 
 <p style="color: #bd93f9;">
     I am a 'Topu Bhuyan'<br>
