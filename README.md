@@ -23,8 +23,9 @@
 <div align="start">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,npm," /><br/>
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet" /><br/>
-    <img src="https://skillicons.dev/icons?i=wasm,rocket,actix,raspberrypi,sqlite,postgres,redis,mysql,notion" /><br/>
-    <img src="https://skillicons.dev/icons?i=obsidian,linux,kali,ubuntu,git,github" />
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,nodejs,notion" /><br/>
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,git,github,githubactions,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,codebloks" />
 </p>
 
 ----
