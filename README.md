@@ -24,8 +24,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,npm," /><br/>
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet" /><br/>
     <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,nodejs,notion" /><br/>
-    <img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,git,github,githubactions,powershell" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,codebloks" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,git,github,githubactions,powershell" /><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,codebloks" /><br/>
+     <img src="https://skillicons.dev/icons?i=discord,bots,linkedin,stackoverflow,twitter" /><br/>
 </p>
 
 ----
