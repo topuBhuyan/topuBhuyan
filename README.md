@@ -1,33 +1,66 @@
-<h1 align="center"> Hi 👋, I'm Topu Bhuyan</h1>
-<h3 align="center">Student 'CSE26'</h3>                   
 
-<p align="left"> <a href="https://twitter.com/topubhuyan" target="blank"><img src="https://img.shields.io/twitter/follow/topubhuyan?logo=twitter&style=for-the-badge" alt="topubhuyan" /></a> </p>
+# Hey there! I'm Gio <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 I’m currently learning **ASP.NET Core**
+[![lucy](/lucy.gif)](https://ddjerqq.github.io)
 
-- 💬 Ask me about **.net core, C#, C++**
-
-- 📫 How to reach me **https://discord.com/channels/1143586352898789456/1143586353771200664**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/topubhuyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topubhuyan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/topubhuyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="topubhuyan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21291653/topu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21291653/topu" height="30" width="40" /></a>
-<a href="https://instagram.com/topu_45_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="topu_45_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/topubhuyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/topubhuyan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mdtopu45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mdtopu45/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/topubhuyan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="topubhuyan45" height="30" width="40" /></a>
+<p style="color: #bd93f9;">
+    I am a 'Topu Bhuyan'<br>
+    I want to learn as many technologies as I can and create something which will change the world to be a better place<br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+/* ### You can check out my personal porfolio by clicking *[👉 here 👈](https://ddjerqq.github.io)*  */
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Topu Bhuyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Topu Bhuyan" /></a></p><br><br>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddjerqq/ddjerqq/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddjerqq/ddjerqq/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddjerqq/ddjerqq/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake.svg">
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xvy45&show_icons=true&locale=en&layout=compact" alt="xvy45" /></p>
+----
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xvy45&show_icons=true&locale=en" alt="xvy45" /></p>
+# 💡 My skills:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xvy45&" alt="xvy45" /></p>
+<div align="start">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,npm," /><br/>
+    <img src="https://skillicons.dev/icons?i=py,pycharm,selenium,opencv,c++,c,cs,cpp,dotnet" /><br/>
+    <img src="https://skillicons.dev/icons?i=wasm,rocket,actix,raspberrypi,sqlite,postgres,redis,mysql,notion" /><br/>
+    <img src="https://skillicons.dev/icons?i=obsidian,kali,arch,ubuntu" />
+</p>
+
+----
+
+# ⚙️ GitHub Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddjerqq&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddjerqq&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddjerqq&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddjerqq&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddjerqq&theme=dracula)
+
+# 📞 Contact
+You can contact me on
+- [telegram](https://t.me/@topu_bhuyan)
+- [email](mailto://tofayelahamdtofo@gmail.com)
+- discord: @topubhuyan
+
+# 😻 Here are some cats :3
+
+<div>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/7601-pixel-toro-spin.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/4438-snackingcat.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/6844-pixel-toro-heartdance.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/7525-pixel-cat-tantrum.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/3216-pixel-toro-fright.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/1311-pixel-cat-makeupkiss.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/6189-pixel-toro-livid.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/3420-pixel-cat-stare.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/4837-pixel-cat-aha.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/7024-pixel-cat-hottea.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/4202-pixel-cat-adoration.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/3111-pixel-toro-sleepy.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/9793-pixel-toro-loveletter.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/4673-pixel-toro-confused.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/6682-pixel-toro-cellphone.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/9302-pixel-toro-kissblow.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/6834-pixel-toro-blanket.gif" width="30" height="30"/>
+</div>
