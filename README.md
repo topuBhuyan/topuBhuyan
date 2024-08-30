@@ -22,20 +22,19 @@
 
 <div align="start">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,npm," /><br/>
-    <img src="https://skillicons.dev/icons?i=Visual Studio, Visual Studio Code,selenium,opencv,c++,c,cs,cpp,dotnet"/><br/>
+    <img src="https://skillicons.dev/icons?i=VisualStudio, VisualStudioCode,selenium,opencv,c++,c,cs,cpp,dotnet"/><br/>
     <img src="https://skillicons.dev/icons?i=wasm,rocket,actix,raspberrypi,sqlite,postgres,redis,mysql,notion" /><br/>
-    <img src="https://skillicons.dev/icons?i=obsidian,kali,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=obsidian,linux,kali,ubuntu" />
 </p>
 
 ----
 
 # ⚙️ GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddjerqq&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddjerqq&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddjerqq&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddjerqq&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddjerqq&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xvy45&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xvy45&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xvy45&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xvy45&theme=default&utcOffset=8)
 
 # 📞 Contact
 You can contact me on
