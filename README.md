@@ -22,9 +22,9 @@
 
 <div align="start">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,npm," /><br/>
-    <img src="https://skillicons.dev/icons?i=py,pycharm,selenium,opencv,c++,c,cs,cpp,dotnet" /><br/>
+    <img src="https://skillicons.dev/icons?i=Visual Studio, Visual Studio Code,selenium,opencv,c++,c,cs,cpp,dotnet"/><br/>
     <img src="https://skillicons.dev/icons?i=wasm,rocket,actix,raspberrypi,sqlite,postgres,redis,mysql,notion" /><br/>
-    <img src="https://skillicons.dev/icons?i=obsidian,kali,arch,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=obsidian,kali,ubuntu" />
 </p>
 
 ----
