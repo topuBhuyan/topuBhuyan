@@ -10,8 +10,6 @@
     I want to learn as many technologies as I can and create something which will change the world to be a better place<br>
 </p>
 
-### You can check out my personal porfolio by clicking *[👉 here 👈](https://ddjerqq.github.io)* 
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddjerqq/ddjerqq/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddjerqq/ddjerqq/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake.svg">
