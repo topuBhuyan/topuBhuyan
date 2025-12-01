@@ -9,6 +9,9 @@
     I am a 'Topu Bhuyan'<br>
     I want to learn as many technologies as I can and create something which will change the world to be a better place<br>
 </p>
+C | C++ | C# | DSA | OOP | ASP.Net Core | SQL | System Design
+
+🔗 **[Visit my website](https://topubhuyan.netlify.app/) **.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddjerqq/ddjerqq/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake-dark.svg">
@@ -16,17 +19,22 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddjerqq/ddjerqq/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake.svg">
 </picture>
 
+## 🔗 Links
+
+[![Portfolio](https://topubhuyan.netlify.app/) [![LinkedIn]](https://www.linkedin.com/in/topubhuyan/) [![Codeforces](https://codeforces.com/profile/topubhuyan)]()
+
+
 ----
 
 # 💡 My skills:
 
 <div align="start">
-    <img src="https://skillicons.dev/icons?i=html,css" /><br/>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp" /><br/>
-    <img src="https://skillicons.dev/icons?i=notion" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css, bootstrap" /><br/>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ASP.NET" /><br/>
+    <!-- <img src="https://skillicons.dev/icons?i=notion" /><br/> -->
     <img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,git,github,powershell" /><br/>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,codebloks" /><br/>
-     <img src="https://skillicons.dev/icons?i=discord,bots,linkedin,stackoverflow,twitter" /><br/>
+     <!-- <img src="https://skillicons.dev/icons?i=discord,bots,linkedin,stackoverflow,twitter" /><br/> -->
 </p>
 
 ----
