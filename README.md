@@ -6,7 +6,6 @@
 
 
 <p style="color: #bd93f9;">
-    I am a 'Topu Bhuyan'<br>
 <img width="1320" height="657" alt="git" src="https://github.com/user-attachments/assets/18aa7df6-a15a-41a4-aa30-a0c1eed7a649" />
 
  
