@@ -7,6 +7,11 @@
 
 <p style="color: #bd93f9;">
     I am a 'Topu Bhuyan'<br>
+<img width="1320" height="657" alt="git" src="https://github.com/user-attachments/assets/18aa7df6-a15a-41a4-aa30-a0c1eed7a649" />
+
+ 
+ <img width="1320" height="657" alt="git" src="https://github.com/user-attachments/assets/a57b565f-494e-454f-b5d1-dd7719ccb261" />
+
     I want to learn as many technologies as I can and create something which will change the world to be a better place<br>
 </p>
 C | C++ | C# | DSA | OOP | ASP.Net Core | SQL | System Design
