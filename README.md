@@ -1,5 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="topuBhuyan's GitHub profile" src="dark_mode.svg" />
-</picture>
+<p align="center">
+  <img src="./images/dark_mode.svg" alt="Project Preview" width="800">
+</p>
